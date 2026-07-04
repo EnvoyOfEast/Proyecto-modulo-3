@@ -1,5 +1,4 @@
-# Proyecto Final: Calculadora y Personajes de Ragnarok Online
-
+# Proyecto Final modulo 3: Aplicación de consola
 Este es mi proyecto del modulo 3 de Fundamentos de JavaScript. Es una aplicacion interactiva que corre en la consola del navegador y combina operaciones matematicas y entrega informacion de algunos personajes de Ragnarok Online.
 
 ## Estructura del repositorio
